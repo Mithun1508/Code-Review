@@ -1,4 +1,4 @@
-# code-review-tips
+# code-review
 
 ## Table of Contents
 
