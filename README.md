@@ -1,5 +1,8 @@
 # code-review
 
+## Just Tried Github's New Feature Code View Beta 
+![Screenshot 2023-03-04 081659](https://user-images.githubusercontent.com/93249038/222871978-908305ec-3df8-4a88-a190-e63dc8420494.png)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
